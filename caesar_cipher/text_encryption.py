@@ -65,7 +65,7 @@ def decryption():
     print("Decrypted Text: ", decrypted_text)
     
 def main():
-    print("!!!_Welcome to Text Encryption Service_!!!")
+    print("Welcome to Text Encryption Service")
     print("Enter-1: Encryption Service")
     print("Enter-2: Decryption Service")
     
